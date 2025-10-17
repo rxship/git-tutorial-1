@@ -7,4 +7,3 @@ function demo(){
     console.log("demo function");
 }
 
-//added bug fixes
