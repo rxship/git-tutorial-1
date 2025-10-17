@@ -4,7 +4,7 @@ function print(name){
 
 
 //testing out the function
-print("world");
+print("Rushi");
 
 function total(n){
     let sum = 0;
@@ -15,3 +15,4 @@ function total(n){
 }
 
 console.log(total(5)); // should print 15
+
