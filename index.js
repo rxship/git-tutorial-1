@@ -4,7 +4,11 @@ function print(name){
 
 
 //testing out the function
+<<<<<<< HEAD
 print("Ritika");
+=======
+print("Rushi");
+>>>>>>> conflict
 
 function total(n){
     let sum = 0;
@@ -15,3 +19,4 @@ function total(n){
 }
 
 console.log(total(5)); // should print 15
+
