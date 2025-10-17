@@ -5,3 +5,8 @@ function button(){
 function fancyButton(){
     console.log("this is a fancy button");
 }
+
+
+function featureDone(){
+    console.log("feature is now done");
+}
