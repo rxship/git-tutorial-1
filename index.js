@@ -4,7 +4,7 @@ function print(name){
 
 
 //testing out the function
-print("world");
+print("Ritika");
 
 function total(n){
     let sum = 0;
