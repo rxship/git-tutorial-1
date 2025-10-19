@@ -4,11 +4,7 @@ function print(name){
 
 
 //testing out the function
-<<<<<<< HEAD
-print("Ritika");
-=======
 print("Rushi");
->>>>>>> conflict
 
 function total(n){
     let sum = 0;
