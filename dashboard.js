@@ -1,2 +1,2 @@
-//adding code to dashboard but better
-console.log("Dashboard is up and running!");
+//adding a line to dashboard.js
+console.log("Dashboard loaded successfully.");
