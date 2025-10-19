@@ -16,3 +16,7 @@ function total(n){
 
 console.log(total(5)); // should print 15
 
+//adding a new food function
+function food(){
+    console.log("I love indian food!");
+}
