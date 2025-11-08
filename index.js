@@ -20,3 +20,6 @@ console.log(total(5)); // should print 15
 function food(){
     console.log("I love indian food!");
 }
+
+
+
